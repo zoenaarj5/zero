@@ -10,7 +10,9 @@ public class DogFactory extends AnimalFactory{
     public static void setUniqueInstance(DogFactory uniqueInstance) {
         DogFactory.uniqueInstance = uniqueInstance;
     }
-
+    private DogFactory(){
+        super();
+    }
     @Override
     public Animal getAnimalInstance() {
         return new Dog();

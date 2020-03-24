@@ -13,8 +13,8 @@ public class AFTester {
     public static void main(String args[]){
         List<Animal> animalList=new ArrayList<>();
         AnimalFactory
-                dogFactory=new DogFactory(),
-                catFactory=new CatFactory();
+                dogFactory=DogFactory.getUniqueInstance(),
+                catFactory=CatFactory.getUniqueInstance();
         animalList.add(dogFactory.getAnimalInstance("Rex"));
         animalList.add(catFactory.getAnimalInstance("Felix"));
         animalList.add(dogFactory.getAnimalInstance("Snoopy"));
