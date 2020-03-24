@@ -1,5 +1,5 @@
 package org.kavus.two.tst;
-import org.kavus.one.*;
+import org.kavus.one.ntt.*;
 import org.kavus.one.ntt.Animal;
 import org.kavus.one.ntt.AnimalFactory;
 import org.kavus.one.ntt.CatFactory;
@@ -14,5 +14,10 @@ public class AF2Tester {
             dogFac= DogFactory.getUniqueInstance(),
             catFac= CatFactory.getUniqueInstance();
         List<Animal> petList=new ArrayList<>();
+        petList.add(dogFac.getAnimalInstance("Medor"));
+        petList.add(catFac.getAnimalInstance("Tom"));
+        petList.add(catFac.getAnimalInstance("Garfield"));
+        petList.add(dogFac.getAnimalInstance("Droopy"));
+        petList.forEach(animal -> System.out.println(animal));
     }
 }
