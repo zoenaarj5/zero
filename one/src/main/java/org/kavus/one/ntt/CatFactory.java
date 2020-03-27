@@ -1,5 +1,7 @@
 package org.kavus.one.ntt;
 
+import java.time.LocalDate;
+
 public class CatFactory extends AnimalFactory{
     private static CatFactory uniqueInstance=new CatFactory();
 
@@ -19,7 +21,7 @@ public class CatFactory extends AnimalFactory{
         super();
     }
     @Override
-    public Animal getAnimalInstance(String name) {
-        return new Cat(name);
+    public Animal getAnimalInstance(LocalDate birthDate, String name) {
+        return new Cat(birthDate,name);
     }
 }

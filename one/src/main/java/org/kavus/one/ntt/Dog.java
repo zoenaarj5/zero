@@ -1,5 +1,9 @@
 package org.kavus.one.ntt;
 
+import javax.persistence.Entity;
+import java.time.LocalDate;
+
+@Entity
 public class Dog extends Animal {
     @Override
     public void initNoiseMaker() {
@@ -10,7 +14,12 @@ public class Dog extends Animal {
         super();
     }
 
-    public Dog(String name) {
-        super(name);
+    public Dog(LocalDate birthDate, String name) {
+        super(birthDate, name);
+    }
+
+    @Override
+    public void initLifeExpectancy() {
+        lifeExpectancy=13;
     }
 }
