@@ -7,14 +7,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="three" />
+        <module name="four" />
         <module name="one" />
         <module name="two" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="three" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="three" options="-parameters" />
+      <module name="one" options="-parameters" />
+      <module name="three" options="" />
     </option>
   </component>
 </project>

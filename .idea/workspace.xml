@@ -2,36 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6825071e-63bc-476a-940f-70300f52e6de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/three/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/three/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/three/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/three/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/three/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/three/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/three/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/three/src/main/java/org/kavus/three/ThreeApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/three/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/three/src/test/java/org/kavus/three/ThreeApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two/target/classes/org/kavus/two/tst/AF2Tester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two/target/two-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/four/four.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/four/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/four/src/main/java/org/kavus/four/ws/WSDL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one/src/main/java/org/kavus/one/OneApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one/src/main/java/org/kavus/one/repo/AnimalRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/three/src/main/java/org/kavus/three/MyWS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/three/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/three/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/three/three.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/one/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/src/main/java/org/kavus/one/ntt/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/one/src/main/java/org/kavus/one/ntt/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/src/main/java/org/kavus/one/ntt/AnimalFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/one/src/main/java/org/kavus/one/ntt/AnimalFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/src/main/java/org/kavus/one/ntt/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/one/src/main/java/org/kavus/one/ntt/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/src/main/java/org/kavus/one/ntt/CatFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/one/src/main/java/org/kavus/one/ntt/CatFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/src/main/java/org/kavus/one/ntt/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/one/src/main/java/org/kavus/one/ntt/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/src/main/java/org/kavus/one/ntt/DogFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/one/src/main/java/org/kavus/one/ntt/DogFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/src/main/java/org/kavus/one/ntt/Verb.java" beforeDir="false" afterPath="$PROJECT_DIR$/one/src/main/java/org/kavus/one/ntt/Verb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/src/main/java/org/kavus/one/tst/AFTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/one/src/main/java/org/kavus/one/tst/AFTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/target/classes/org/kavus/one/ntt/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/one/target/classes/org/kavus/one/ntt/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/target/classes/org/kavus/one/ntt/AnimalFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/one/target/classes/org/kavus/one/ntt/AnimalFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/target/classes/org/kavus/one/ntt/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/one/target/classes/org/kavus/one/ntt/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/target/classes/org/kavus/one/ntt/CatFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/one/target/classes/org/kavus/one/ntt/CatFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/target/classes/org/kavus/one/ntt/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/one/target/classes/org/kavus/one/ntt/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/target/classes/org/kavus/one/ntt/DogFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/one/target/classes/org/kavus/one/ntt/DogFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/target/classes/org/kavus/one/ntt/Verb.class" beforeDir="false" afterPath="$PROJECT_DIR$/one/target/classes/org/kavus/one/ntt/Verb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/target/classes/org/kavus/one/tst/AFTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/one/target/classes/org/kavus/one/tst/AFTester.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/one/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/one/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/one/target/one-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/one/target/one-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/one/org/kavus/one/ntt/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/one/org/kavus/one/ntt/AnimalFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/one/org/kavus/one/ntt/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/one/org/kavus/one/ntt/CatFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/one/org/kavus/one/ntt/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/one/org/kavus/one/ntt/DogFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/one/org/kavus/one/ntt/Verb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/one/org/kavus/one/tst/AFTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/one/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/one/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/one/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one/target/one-1.0-SNAPSHOT.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/three/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/src/main/java/org/kavus/three/ThreeApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/three/src/test/java/org/kavus/three/ThreeApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/one/src/test/java/org/kavus/one/OneApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/two/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/two/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/two/src/main/java/org/kavus/two/tst/AF2Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/two/src/main/java/org/kavus/two/tst/AF2Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/two/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/two/target/classes/org/kavus/two/tst/AF2Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/two/target/classes/org/kavus/two/tst/AF2Tester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/two/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/two/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/two/target/two-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/two/target/two-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +64,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -67,7 +90,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AF2Tester">
+  <component name="RunManager" selected="Application.WS">
     <configuration name="AF2Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.kavus.two.tst.AF2Tester" />
       <module name="two" />
@@ -94,8 +117,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.kavus.three.WS" />
+      <module name="three" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kavus.three.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WS" />
         <item itemvalue="Application.AF2Tester" />
         <item itemvalue="Application.AFTester" />
       </list>
@@ -119,7 +156,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

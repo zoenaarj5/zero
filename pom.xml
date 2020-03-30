@@ -16,6 +16,7 @@
         <module>one</module>
         <module>two</module>
         <module>three</module>
+        <module>four</module>
     </modules>
     <build>
         <plugins>
